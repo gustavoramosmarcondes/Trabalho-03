@@ -22,3 +22,5 @@ echo "Antecessor = $antecessor\n";
 echo "Sucessor = $sucessor";
 
 ?>
+/ A finalidade deste código é descobrir quais números vêm imediatamente antes
+/ e depois do valor informado pelo usuário.
