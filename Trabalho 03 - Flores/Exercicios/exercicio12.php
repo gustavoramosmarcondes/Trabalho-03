@@ -20,3 +20,5 @@ $resultado = $numero / 3;
 echo "Terça parte = $resultado";
 
 ?>
+/ A proposta deste programa é pegar um número informado pelo usuário e calcular
+/ quanto corresponde a sua terça parte.
