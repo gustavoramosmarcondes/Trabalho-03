@@ -18,3 +18,5 @@ $nome = readline("Digite seu nome: ");
 echo "Olá $nome!";
 
 ?>
+/ Este programa foi desenvolvido para receber o nome do usuário e utilizá-lo
+/ em uma mensagem de cumprimento personalizada.
