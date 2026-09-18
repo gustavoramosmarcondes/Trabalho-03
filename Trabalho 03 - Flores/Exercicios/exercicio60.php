@@ -11,6 +11,21 @@ Componentes:
               260081732 - Alan Cristian dos Santos Costa
               260103602 - Victor Asaf Antunes dos Santos
 Data: 19 de Setembro de 2026
-Descritivo: Escreva um programa conceitual que leia a quantidade de habitantes de uma cidade de forma que o programa se prepare para ler a idade de cada morador e calcular a media.
+Descritivo: Receber a quantidade de habitantes, ler a idade de cada um e calcular a media de idade dessa cidade!
 *******************************************************************************/
 
+$quantidade_habitantes = (int) readline("Digite a quantidade de habitantes: ");
+
+$soma_idades = 0;
+for($i = 0; $i < $quantidade_habitantes; $i++){
+    $idade_habitantes = (int) readline("Digite a idade do habitante " . $i . " :");
+    $soma_idades += $idade_habitantes;
+}
+
+
+if ($quantidade_habitantes > 0){
+$media = $soma_idades / $quantidade_habitantes;
+echo"A media de idade dessa cidade e: " . $media . " ";
+} else {
+    echo "Quantidade de habitantes invalido!";
+}
