@@ -21,3 +21,5 @@ $produto = $numero1 * $numero2;
 echo "Produto = $produto";
 
 ?>
+/ Este exercício utiliza dois números fornecidos pelo usuário para demonstrar
+/ como o PHP pode realizar uma operação de multiplicação.
