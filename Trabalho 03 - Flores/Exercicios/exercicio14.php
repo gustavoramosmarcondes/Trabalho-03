@@ -13,4 +13,9 @@ Componentes:
 Data: 19 de Setembro de 2026
 Descritivo: Escreva um programa que leia o nome de um aluno e suas duas notas em avaliacoes (AVs), calcule a media aritmetica simples e exiba o nome do aluno seguido de sua media final.
 *******************************************************************************/
+$numero = 12.4;
+$terceiraParte = $numero / 3;
 
+echo "A terça parte de $numero é: " . $terceiraParte;
+/*Resumindo:O código lê o número real e divide por 3 para resultar na terceira parte.*/
+?>
