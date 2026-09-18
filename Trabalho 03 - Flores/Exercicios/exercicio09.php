@@ -20,5 +20,7 @@ $telefone = readline("Digite seu telefone: ");
 echo "Nome: $nome\n";
 echo "Endereço: $endereco\n";
 echo "Telefone: $telefone";
-
 ?>
+
+/ Este programa foi criado para coletar algumas informações pessoais digitadas
+/ pelo usuário e depois organizá-las de uma maneira fácil de visualizar.
