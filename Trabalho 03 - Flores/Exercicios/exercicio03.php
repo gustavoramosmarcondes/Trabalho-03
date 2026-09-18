@@ -20,3 +20,5 @@ $resultado = $x + 1;
 echo "Resultado = $resultado";
 
 ?> 
+/ O objetivo deste programa é realizar uma pequena alteração no valor,
+/ criando um novo resultado sem modificar a variável que já foi criada.
