@@ -18,3 +18,5 @@ $resultado = 28 * 43;
 echo "Resultado = $resultado";
 
 ?>
+/ O código foi criado para colocar em prática uma operação de multiplicação
+/ e mostrar o resultado calculado pelo programa.
