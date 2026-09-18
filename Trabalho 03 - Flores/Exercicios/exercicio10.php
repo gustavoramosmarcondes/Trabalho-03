@@ -21,3 +21,5 @@ $soma = $numero1 + $numero2;
 echo "Soma: $soma";
 
 ?>
+/ O objetivo deste código é receber dois valores e realizar uma soma entre eles,
+/ mostrando ao usuário o resultado dessa operação.
