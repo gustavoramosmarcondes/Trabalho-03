@@ -18,3 +18,5 @@ $media = (8 + 9 + 7) / 3;
 echo "Média = $media";
 
 ?>
+/ Neste programa, os três números são utilizados para encontrar a média,
+/ permitindo praticar cálculos matemáticos básicos no PHP.
