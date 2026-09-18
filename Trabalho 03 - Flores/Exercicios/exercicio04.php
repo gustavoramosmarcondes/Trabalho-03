@@ -18,3 +18,5 @@ $numero = (int) readline("Digite um número inteiro: ");
 echo "Número lido = $numero";
 
 ?>
+/ Este código permite que a pessoa informe um número pelo teclado e,
+/ em seguida, apresenta na tela exatamente o valor que foi digitado.
