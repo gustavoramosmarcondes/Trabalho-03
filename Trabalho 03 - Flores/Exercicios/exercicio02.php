@@ -18,3 +18,5 @@ $x = 10;
 echo "Valor de x = $x";
 
 ?>
+/ Neste exercício, o código foi feito para praticar a criação de uma variável
+/ e aprender como mostrar o valor armazenado nela.
