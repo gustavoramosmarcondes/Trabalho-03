@@ -16,3 +16,5 @@ Descritivo: Escreva um programa que exiba na tela do computador a mensagem: 'Apr
 echo "Aprendendo PHP!!!";
 
 ?>
+/ A ideia deste código é mostrar como o PHP consegue apresentar uma mensagem
+/ diretamente na tela usando um comando simples.
