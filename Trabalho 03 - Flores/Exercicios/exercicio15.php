@@ -13,4 +13,9 @@ Componentes:
 Data: 19 de Setembro de 2026
 Descritivo: Escreva um programa que leia o nome e o sobrenome de uma pessoa e exiba-os na seguinte forma formatada: 'sobrenome, nome' (exemplo: 'Flores, Jose').
 *******************************************************************************/
+$nome = "Gabriel";
+$sobrenome = "Grendel";
 
+echo "$sobrenome, $nome";
+/*Resumindo:O sistema lê o nome e sobrenome que foram declarados e exibe no terminal com a tag "echo"*/
+?>
