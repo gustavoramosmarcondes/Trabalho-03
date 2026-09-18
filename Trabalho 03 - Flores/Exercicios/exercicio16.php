@@ -14,3 +14,12 @@ Data: 19 de Setembro de 2026
 Descritivo: Escreva um programa que leia um numero inteiro positivo e exiba o dobro dele. Se o numero for negativo, informe o erro.
 *******************************************************************************/
 
+$numero = 3;
+if ($numero >= 0) {
+    $dobro = $numero * 2;
+    echo "O dobro de $numero é: $dobro";
+} else {
+    echo "Erro: O número informado é negativo!";
+}
+/*Resumindo:Esse sistema verifica se um número inteiro é positivo ou igual a zero, calculando e exibindo o seu dobro caso seja verdadeiro, ou mostrando uma mensagem de erro caso seja negativo.*/
+?>
